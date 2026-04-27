@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data and Results
+adult.data
+anonymized_data/
+result/
+nist_repo/
+*.csv
+
+# macOS hidden files
+._*
+.DS_Store
+
+# Environments
+.env
+.venv
+env/
+venv/
